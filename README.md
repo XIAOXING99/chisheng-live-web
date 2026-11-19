@@ -1,5 +1,7 @@
 # 驰声 · 在线直播口播助手
 
+在线访问：https://xiaoxing99.github.io/chisheng-live-web/
+
 这是原有汽车直播助手的 GitHub Pages 网页版，无需安装 Python 或购买云服务器。
 
 支持多车型讲稿编辑、TXT/Markdown/DOCX 导入、编排与改写、禁用词、播放清单、浏览器语音及背景音乐。讲稿保存在浏览器 localStorage，音乐保存在 IndexedDB，内容不会上传到服务器。

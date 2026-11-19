@@ -1,0 +1,12 @@
+[hidden] { display: none !important; }
+.web-mode #exitBtn, .web-mode .natural-voice-row, .web-mode .kokoro-auto,
+.web-mode #packBtn, .web-mode #packState, .web-mode #azureConfig,
+.web-mode #volcConfig, .web-mode #cosyConfig { display: none !important; }
+.web-notice { padding:16px 18px; margin-bottom:18px; border:1px solid #bdd9d2; border-radius:14px; background:#f0faf6; color:#24594e; line-height:1.7; font-size:14px; }
+.web-notice strong { font-size:16px; }
+.web-notice p { margin:5px 0 10px; }
+.web-actions { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+.web-actions .btn { font-size:14px; }
+.web-feature-note { padding:28px; border:1px solid #deded8; border-radius:18px; background:#fff; max-width:900px; line-height:1.8; font-size:16px; }
+.web-feature-note p { margin:15px 0; }
+.web-small, #webBackupStatus { font-size:14px; opacity:.85; }
